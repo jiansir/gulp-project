@@ -6,3 +6,5 @@
 1. 安装依赖 npm install 或者 yarn
 
 2. 启动程序 gulp 
+# gulp-project
+gulp+sass+browsersync 简单自动化编译
